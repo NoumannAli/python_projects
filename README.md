@@ -1,2 +1,2 @@
 # python_projects
-I have created these mini python projects while learning python in college and in python developer bootcamp.
+This repository contains some of my python projects, which I have created to showcase my python skills and understanding.
